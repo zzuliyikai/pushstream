@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\android1studio\\Term2\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_switch_camera_normal.png",
+        "source": "D:\\android1studio\\Term2\\demo\\res\\drawable-xhdpi\\record_switch_camera_normal.png"
+    },
+    {
+        "merged": "D:\\android1studio\\Term2\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_flash_highlighted.png",
+        "source": "D:\\android1studio\\Term2\\demo\\res\\drawable-xhdpi\\record_flash_highlighted.png"
+    },
+    {
+        "merged": "D:\\android1studio\\Term2\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_exitsure_normal.png",
+        "source": "D:\\android1studio\\Term2\\demo\\res\\drawable-xhdpi\\record_exitsure_normal.png"
+    },
+    {
+        "merged": "D:\\android1studio\\Term2\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_switch_camera_disable.png",
+        "source": "D:\\android1studio\\Term2\\demo\\res\\drawable-xhdpi\\record_switch_camera_disable.png"
+    },
+    {
+        "merged": "D:\\android1studio\\Term2\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_switch_camera_highlighted.png",
+        "source": "D:\\android1studio\\Term2\\demo\\res\\drawable-xhdpi\\record_switch_camera_highlighted.png"
+    },
+    {
+        "merged": "D:\\android1studio\\Term2\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_flash_disable.png",
+        "source": "D:\\android1studio\\Term2\\demo\\res\\drawable-xhdpi\\record_flash_disable.png"
+    },
+    {
+        "merged": "D:\\android1studio\\Term2\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_flash_normal.png",
+        "source": "D:\\android1studio\\Term2\\demo\\res\\drawable-xhdpi\\record_flash_normal.png"
+    },
+    {
+        "merged": "D:\\android1studio\\Term2\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\android1studio\\Term2\\demo\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android1studio\\Term2\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_exit_normal.png",
+        "source": "D:\\android1studio\\Term2\\demo\\res\\drawable-xhdpi\\record_exit_normal.png"
+    },
+    {
+        "merged": "D:\\android1studio\\Term2\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_exit_disable.png",
+        "source": "D:\\android1studio\\Term2\\demo\\res\\drawable-xhdpi\\record_exit_disable.png"
+    }
+]

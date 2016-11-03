@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android1studio\\Term2\\demo\\build\\intermediates\\res\\merged\\debug\\drawable\\recorder_rotate_icon.xml",
+        "source": "D:\\android1studio\\Term2\\demo\\res\\drawable\\recorder_rotate_icon.xml"
+    },
+    {
+        "merged": "D:\\android1studio\\Term2\\demo\\build\\intermediates\\res\\merged\\debug\\drawable\\recorder_delete_icon.xml",
+        "source": "D:\\android1studio\\Term2\\demo\\res\\drawable\\recorder_delete_icon.xml"
+    },
+    {
+        "merged": "D:\\android1studio\\Term2\\demo\\build\\intermediates\\res\\merged\\debug\\drawable\\recorder_flash_icon.xml",
+        "source": "D:\\android1studio\\Term2\\demo\\res\\drawable\\recorder_flash_icon.xml"
+    }
+]

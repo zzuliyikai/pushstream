@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\android1studio\Term2\demo\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\android1studio\Term2\demo\build-types\debug\shaders"/></dataSet></merger>
